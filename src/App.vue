@@ -10,7 +10,7 @@
 
         <div class="hero z-10 parallax-layer layer1 mt-[30rem] md:mt-[150rem] flex w-full justify-center place-items-center">
             <a href="https://distrokid.com/hyperfollow/evatia/blcklst"
-               class="p-3 text-white text-3xl font-bold text-center border-4 border-white">VIEW TRANSMISSION LOG</a>
+               class="p-3 text-white text-3xl font-bold text-center border-4 border-white">TRANSMISSION AUDIO</a>
         </div>
 
         <img alt="mako" src="/img/mako.png" class="parallax-layer layer2 w-64 h-auto -z-10">
