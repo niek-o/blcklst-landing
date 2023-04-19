@@ -4,8 +4,8 @@
 
 <template>
     <div class="parallax overflow-hidden md:overflow-y-visible">
-        <img src="img/bg.png" class="parallax-layer layer1 md:w-full h-auto -z-10">
-        <img src="img/bg.png" class="parallax-layer layer1 mt-[140vh] lg:mt-[90vh] xl:mt-[30vh] md:w-full h-auto -z-10">
+        <img src="/img/bg.png" class="parallax-layer layer1 md:w-full h-auto -z-10">
+        <img src="/img/bg.png" class="parallax-layer layer1 mt-[140vh] lg:mt-[90vh] xl:mt-[30vh] md:w-full h-auto -z-10">
 
         <div class="hero z-10 parallax-layer layer1 mt-32 md:mt-64">
             <h1 class=" text-white text-xl font-bold text-center">EVATIA</h1>
@@ -17,8 +17,8 @@
                class="p-3 text-white text-3xl font-bold text-center border-4 border-white">VIEW TRANSMISSION LOG</a>
         </div>
 
-        <img src="img/mako.png" class="parallax-layer layer2 w-64 h-auto -z-10">
-        <img src="img/planet.png" class="parallax-layer layer3 w-[100rem] h-auto right-96">
+        <img src="/img/mako.png" class="parallax-layer layer2 w-64 h-auto -z-10">
+        <img src="/img/planet.png" class="parallax-layer layer3 w-[100rem] h-auto right-96">
     </div>
 
 
