@@ -4,8 +4,8 @@
 
 <template>
     <div class="parallax overflow-hidden md:overflow-y-visible">
-        <img src="/img/bg.png" class="parallax-layer layer1 h-screen sm:h-full w-screen md:w-full sm:h-auto -z-10">
-        <img src="/img/bg.png" class="parallax-layer layer1 mt-[140vh] lg:mt-[90vh] xl:mt-[30vh] md:w-full h-auto -z-10">
+        <img src="/img/bg.jpg" class="parallax-layer layer1 h-screen sm:h-full w-screen md:w-full sm:h-auto -z-10">
+        <img src="/img/bg.jpg" class="parallax-layer layer1 mt-[140vh] lg:mt-[90vh] xl:mt-[30vh] md:w-full h-auto -z-10">
 
         <div class="hero z-10 parallax-layer layer1 mt-32 md:mt-64">
             <h1 class=" text-white text-xl font-bold text-center">EVATIA</h1>
